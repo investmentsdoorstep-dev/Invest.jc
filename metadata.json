@@ -1,0 +1,5 @@
+{
+  "name": "Vibe AI",
+  "description": "A production-grade AI-powered vibe rater that scores your outfits, rooms, and appearance using Gemini AI. Get instant verdicts, fix tips, and detailed analytics to level up your aesthetic.",
+  "requestFramePermissions": []
+}
